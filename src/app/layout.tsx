@@ -7,8 +7,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: 'CraftedCuts Barber Shop',
-  description: 'Premium grooming services in NEW YORK, USA',
+  title: 'SerenityTherapy - Mental Health Services',
+  description: 'Professional therapy services in New York City. Find support and guidance for your mental health journey.',
 };
 
 export default function RootLayout({
